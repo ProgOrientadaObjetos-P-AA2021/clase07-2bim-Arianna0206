@@ -48,4 +48,6 @@ public class Principal {
                 tipos.obtenerPromedioTarifas());
 
     }
+    
+    
 }
